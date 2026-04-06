@@ -517,7 +517,7 @@
             <div style="display:flex;align-items:center;gap:18px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Open menu"><em class="fas fa-bars"></em></button>
                 <a class="brand" href="#">
-                    <span>Nexus<span class="accent">Shop</span></span>
+                    <span>jagan-Raja<span class="accent">Shop</span></span>
                 </a>
             </div>
 
@@ -716,7 +716,7 @@
             </div>
         </div>
 
-        <div style="text-align:center;margin-top:22px;color:var(--muted);font-size:13px">© <span id="year"></span> NexusShop. All rights reserved.</div>
+        <div style="text-align:center;margin-top:22px;color:var(--muted);font-size:13px">© <span id="year"></span> jagan-RajaShop. All rights reserved.</div>
     </footer>
 
     <script>
