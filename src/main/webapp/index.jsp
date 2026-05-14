@@ -517,7 +517,7 @@
             <div style="display:flex;align-items:center;gap:18px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Open menu"><em class="fas fa-bars"></em></button>
                 <a class="brand" href="#">
-                    <span>jagan-Raja<span class="accent">Shop</span></span>
+                    <span>jagan-Rajareddy<span class="accent">Shop</span></span>
                 </a>
             </div>
 
@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>My winter Collection — Premium Picks</h1>
+                <h1>My reception Collection — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
