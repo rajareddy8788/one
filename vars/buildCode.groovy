@@ -1,4 +1,4 @@
 def call() {
-    echo "Build stage"
+    echo "Build stages"
     sh 'mvn clean install'
 }
