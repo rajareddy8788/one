@@ -1,0 +1,27 @@
+@Library('devops-shared-library') _
+pipeline {
+    agent any
+    stages{
+        stage('Checkout code') {
+            steps{
+                script{
+                    checkoutCode()
+                }
+            }
+        }
+        stage('Build') {
+            steps{
+                script{
+                    buildCode()
+                }
+            }
+        }
+        stage('Docker Build') {
+            steps{
+                script{
+                    Dockerimage('raja8788/shared-library',"${env.BUILD_NUMBER}")
+                }
+            }
+        }
+    }
+}
